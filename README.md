@@ -1,2 +1,3 @@
 # school-mgmn
-Univercity Management
+University Management
+This is for tutorial purpose
